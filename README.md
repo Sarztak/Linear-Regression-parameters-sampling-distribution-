@@ -17,9 +17,4 @@ By simulating data, taking random samples, and visualizing the resulting estimat
 - The **population parameters** (e.g., the true slope and intercept of the regression line) are fixed constants.
 - The **estimated parameters** vary depending on the data sample. These estimates are random variables because they are based on the sample data, and different samples will yield different estimates.
 
-## How to Run
-Run the `sampling_distribution.py` script to generate random data, create samples, and plot histograms that show the distribution of estimated parameters.
-
-```bash
-python sampling_distribution.py
 
